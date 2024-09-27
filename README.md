@@ -1,4 +1,4 @@
-### Introduction to Machine Learning Project
+### ML Project - ElasticNet and Random Forest Approaches to Protein Abundance Prediction
 
 #### Preliminary Information
 
